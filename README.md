@@ -1,3 +1,5 @@
+![](https://plannrcrm.com/assets/plannr-dark.svg)
+
 # We're recruiting!
 
 We're on the hunt for a handful of developers to come join the fun at Plannr and help build something truly industry changing! 
