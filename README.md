@@ -9,8 +9,8 @@ We're all about building truly modern tech collaboratively with the financial ad
 
 ## Open Roles
 
-- Laravel Developers
-- VueJS Developers
+- [Laravel Developer Vacancies](https://github.com/PlannrCrm/Recruiting#laravel-developer-roles)
+- [VueJS Developers](https://github.com/PlannrCrm/Recruiting/edit/main/README.md#vuejs--javascript-developer-roles)
 
 ### Laravel Developer Roles
 
